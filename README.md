@@ -1,4 +1,4 @@
-# Getting Started with Create React app.
+<b>CUSTOMER-SUCCESS-MANAGER<b>
 ## Available Scripts
 ### `npm start`
 
@@ -27,8 +27,11 @@ SCREENSHOTS OF PROJECT
   <b>HOW TO USE THIS CUSTOMER-SUCCESS-MANAGERS PROJECT </b>
 <br>
 STEP -1 Open this PROJECT LINK :https://aesthetic-sherbet-1e0dc1.netlify.app/
+  
 STEP -2 Click on Select and type any word  and click of the ADD CSM button then both user should be added to the list.
+  
 STEP -3( Delete Button use) See when you search then add users in list . In the User list see left side in the list delete button are there you can also delete user names.
+  
 Step -4 you can also two user are add and search . 
 
 
