@@ -1,4 +1,4 @@
-<b>CUSTOMER-SUCCESS-MANAGER<b>
+<h2><b>CUSTOMER-SUCCESS-MANAGER<b></h2>
 ## Available Scripts
 ### `npm start`
 
@@ -32,7 +32,7 @@ STEP -2 Click on Select and type any word  and click of the ADD CSM button then 
   
 STEP -3( Delete Button use) See when you search then add users in list . In the User list see left side in the list delete button are there you can also delete user names.
   
-Step -4 you can also two user are add and search . 
+Step -4 you can also <u>two user are add and search<u> . 
 
 
 
