@@ -1,0 +1,27 @@
+.user-search{
+    margin-top: 36px;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 8px;
+}
+
+.user-search button {
+    background-color: blue;
+    color: #fff;
+    padding: 12px 16px;
+    border: none;
+    border-radius: 0 8px 8px 0;
+    width: 120px;
+}
+
+.input{
+    width: 100%;
+}
+
+.select__value-container {
+    padding: 8px !important;
+}
+
+.select__indicators{
+    display: none !important;
+}

@@ -1,0 +1,12 @@
+section{
+  margin-top: 24px;
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 4px 4px 10px #ddd;
+}
+
+.section-heading h2 {
+  font-size: 18px;
+  font-weight: 600;
+}
