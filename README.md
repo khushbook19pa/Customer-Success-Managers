@@ -18,10 +18,14 @@ MAIL ID : khushbookr481@gmail.com
 This is my live project:
 
 PROJECT LINK :https://aesthetic-sherbet-1e0dc1.netlify.app/
+  
+ 
 
 SCREENSHOTS OF PROJECT
 <img width="825" alt="Screenshot 1" src="https://user-images.githubusercontent.com/63450932/169579532-36ebc93c-ba96-4bb3-8eb7-454c7b6ce9e8.png">
-<br>
+<img width="825" alt="Screenshort 2" scr=
+<br>![Screenshot (220)](https://user-images.githubusercontent.com/63450932/169587566-3da7fd60-75aa-4b87-a2d6-7a99a9174905.png)
+
   FOLLOW
   <br>
   <b>HOW TO USE THIS CUSTOMER-SUCCESS-MANAGERS PROJECT </b>
